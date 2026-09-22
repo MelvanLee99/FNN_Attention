@@ -8,7 +8,7 @@ This study evaluates and compares the performance of linguistic deep learning (F
 3. **Galaxy Morphology** Three types of datasets: Galaxy Cruise, Galaxy Zoo 1, and Galaxy Zoo 2 obtained from each astronomical site. this dataset can accessed via link: https://bit.ly/GalaxyMorphology
 
 ## Environment
-The experiments were conducted in a cloud-based **Visual Studio Code (Jupyter Notebook)** environment. The implementation relies on the following core Python libraries:
+The experiments were conducted in **Visual Studio Code (Jupyter Notebook)** environment. The implementation relies on the following core Python libraries:
 * **Python 3.x**
 * **PyTorch** (Deep Learning: Neural Networks)
 * **Pandas & NumPy** (Data Manipulation)
