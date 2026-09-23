@@ -4,8 +4,8 @@ This repository contains the source code, datasets including results, and book f
 ## Project Overview
 This study evaluates and compares the performance of linguistic deep learning (FNN + Rule Attention) and baseline machine learning (K-Nearest Neighbours) across five experimental datasets:
 1. **Iris:** Utilizing as a baseline dataset.
-2. **QSAR:** Simple dataset which obtained from Kaggle.
-3. **Galaxy Morphology** Three types of datasets: Galaxy Cruise, Galaxy Zoo 1, and Galaxy Zoo 2 obtained from each astronomical site. this dataset can accessed via link: https://bit.ly/GalaxyMorphology
+2. **QSAR:** Simple dataset which obtained from Kaggle. Can access in folder named 'raw data'
+3. **Galaxy Morphology**: Three types of datasets: Galaxy Cruise, Galaxy Zoo 1, and Galaxy Zoo 2 obtained from each astronomical site. These datasets can accessed via link: https://bit.ly/GalaxyMorphology
 
 ## Environment
 The experiments were conducted in **Visual Studio Code (Jupyter Notebook)** environment. The implementation relies on the following core Python libraries:
