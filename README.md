@@ -18,7 +18,14 @@ The experiments were conducted in **Visual Studio Code (Jupyter Notebook)** envi
 ```
 # Open Terminal in the project directory
 python -m venv myenv
+# Windows:
 myenv\Scripts\activate
+
+# Linux/macOS:
+source pyenv/bin/activate
+
+# Install dependencies
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
